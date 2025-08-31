@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KayTsujita
-- 👀 I’m interested in Java and Python.
-- 🌱 I’m currently learning Ruby on Rails
+- 👀 I’m learning Java and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: She/Her
